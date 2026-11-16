@@ -1,5 +1,10 @@
 # Raytracer — 3D rendering engine in C++
 
+[![School: Epitech](https://img.shields.io/badge/School-Epitech-005696.svg)](https://www.epitech.eu/)
+[![Academic Year: 2025-2026](https://img.shields.io/badge/Academic%20Year-2025--2026%20(Tek2)-blueviolet.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+
 A rendering engine that generates images by **simulating the inverse path of light**,
 ray by ray. It reads a scene description (camera, primitives, lights…) and computes the
 final color of every pixel — shadows, materials and reflections included.
